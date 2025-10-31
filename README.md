@@ -1,5 +1,5 @@
-# Proyectos-Data-Science-ML
+# Data-Science-ML-Projects
 
-Challenges submitted on Kaggle.
+Some challenges are submitted on Kaggle. Profile username: ignaciomenna
 
-Data Science and Machine Learning challenges are made on GoogleClaude | Kaggle | VSCode | Jupiter using Python.
+Data Science and Machine Learning challenges are made on Claude | Kaggle | VSCode | Jupiter, using Python.
